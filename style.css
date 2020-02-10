@@ -246,7 +246,7 @@ h3.heading
 /*--navbar li color when screen is xs --*/
 .navbar-nav.ml-auto
 {
-	background: red;
+	background: black;
 }
 .navbar-brand img
 {
@@ -262,7 +262,7 @@ h3.heading
 .navbar-dark .navbar-nav .nav-link.active,
 .navbar-dark .navbar-nav .nav-link:hover
 {
-  color: black;
+  color: red;
   border-bottom: 1px solid white;
   font-weight: 1000;
 }
@@ -304,6 +304,14 @@ h3.heading
 }
 
 /*-- official--*/
+h3.heading
+{
+  font-size: 1.2rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  padding-bottom: 0;
+  color:#fd7e14;
+}
 
 .official-text {
   font-size: 1rem;
@@ -318,7 +326,7 @@ h3.heading
 }
 .testimonial-text
 {
-  font-size: .5rem;
+  font-size: .6rem;
   line-height: 1.5;
   color: #6c757d;
 }
@@ -326,7 +334,7 @@ h3.heading
 .testimonial-image {
   width: 50%;
   border-radius: 100%;
-  margin: 20px;
+  margin: 5px;
 }
 
 }
