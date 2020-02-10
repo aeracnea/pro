@@ -138,7 +138,7 @@ h3.heading
 	width: 30%;
 	height: .2rem;
 	background-color: red;
-	margin: 0 auto 2rem;  /*-- margin to center item in the middle --*/
+	margin: 0 auto 0;  /*-- margin to center item in the middle --*/
 }
 .portfolio img
 {
